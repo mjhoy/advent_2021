@@ -1,1 +1,9 @@
 advent of code, 2021.
+
+How to run:
+
+# day 1, part 1
+cabal run advent2021 -- 1 1 <input-file>
+
+# day 1, part 2
+cabal run advent2021 -- 1 2 <input-file>
