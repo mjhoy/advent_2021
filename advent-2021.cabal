@@ -10,7 +10,7 @@ category:           Web
 author:             Michael Hoy
 maintainer:         mjh@mjhoy.com
 
-executable site
+executable advent
   main-is:          Main.hs
   hs-source-dirs:   src
   ghc-options:      -threaded
@@ -19,3 +19,4 @@ executable site
   other-modules:    Days.Day1
                   , Days.Day2
                   , Days.Day2_2
+                  , Days.Day3
